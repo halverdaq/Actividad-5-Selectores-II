@@ -1,0 +1,138 @@
+:root{
+    /* Creo un color llamado --color-mates */
+    --mates: yellow;
+    /* Creo un color llamado --color-fiq */
+    --fiq: turquoise;
+    /* Creo un color llamado --color-gih */
+    --gih: green;
+    /* Creo un color llamado --color-big */
+    --big: orange;
+    /* Creo un color llamado --color-valen */
+    --valen: #ff7800;
+    /* Creo un color llamado --color-cultura */
+    --cultura: #9e6500;
+    /* Creo un color llamado --color-ingles */
+    --ingles: #a1009a;
+    /* Creo un color llamado --color-info */
+    --info: #2eff00;
+    /* Creo un color llamado --color-e-f */
+    --e-f: #ff00ec;
+    /* Creo un color llamado --color-tuto */
+    --tuto: #00ffbd;
+    /* Creo un color llamado --color-valores */
+    --valores: #ff0000;
+    /* Creo un color llamado --color-caste */
+    --caste: #03696f;
+    /* Creo un color llamado --color-patio */
+    --patio: #ceffae;
+    /* Creo un color llamado --color-vacío */
+    --vacío: #a3f9ff;
+    /* Creo un color llamado --color-horas */
+    --horas: #ff9b74;
+    /* Creo un color llamado --color-titulo-horario */
+    --titulo-horario: #ff50e8;
+    /* Creo un color llamado --color-días */
+    --días: #ffdf50;
+}
+.mates{
+    /* Utilizo el color que he creado antes (--color-mates) */
+    background-color: var(--mates);
+    width: 50px;
+}
+.fiq{
+    /* Utilizo el color que he creado antes (--color-fiq) */
+    background-color: var(--fiq);
+    width: 50px;
+}
+.gih{
+    /* Utilizo el color llamado --color-gih */
+    background-color: var(--gih);
+    width: 50px;
+}
+.big{
+    /* Utilizo el color llamado --color-big */
+    background-color: var(--big);
+    width: 50px;
+}
+.valen{
+    /* Utilizo el color llamado --color-valen */
+    background-color: var(--valen);
+    width: 50px;
+}
+.valen{
+    /* Utilizo el color llamado --color-valen */
+    background-color: var(--valen);
+    width: 50px;
+}
+.cultura{
+    /* Utilizo el color llamado --color-cultura */
+    background-color: var(--cultura);
+    width: 50px;
+}
+.ingles{
+    /* Utilizo el color llamado --color-ingles */
+    background-color: var(--ingles);
+    width: 50px;
+}
+.info{
+    /* Utilizo el color llamado --color-info */
+    background-color: var(--info);
+    width: 50px;
+}
+.e-f{
+    /* Utilizo el color llamado --color-e-f */
+    background-color: var(--e-f);
+    width: 50px;
+}
+.tuto{
+    /* Utilizo el color llamado --color-tuto */
+    background-color: var(--tuto);
+    width: 50px;
+}
+.valores{
+    /* Utilizo el color llamado --color-valores */
+    background-color: var(--valores);
+    width: 50px;
+}
+.caste{
+    /* Utilizo el color llamado --color-caste */
+    background-color: var(--caste);
+    width: 50px;
+}
+.patio{
+    /* Utilizo el color llamado --color-patio */
+    background-color: var(--patio);
+    width: 50px;
+}
+.vacío{
+    /* Utilizo el color llamado --color-vacío */
+    background-color: var(--vacío);
+    width: 50px;
+}
+.horas{
+    /* Utilizo el color llamado --color-horas */
+    background-color: var(--horas);
+    width: 50px;
+}
+.titulo-horario{
+    /* Utilizo el color llamado --color-titulo-horario */
+    background-color: var(--titulo-horario);
+    width: 50px;
+}
+.días{
+    /* Utilizo el color llamado --color-días */
+    background-color: var(--días);
+    width: 50px;
+}
+body{
+    text-align: center;
+}
+table{
+    margin: 20px auto;
+}
+.horario td{
+    border: 1px solid red;
+}
+.horario th{
+    border: 1px solid red;
+}
